@@ -23,8 +23,8 @@ pipeline {
             steps {
                  withDockerRegistry([credentialsId: "docker-hub", url: ""]) {
                      sh 'printenv'
-                     sh 'docker build -t saikrishnaoduru7/yogi:""\$GIT_COMMIT"" .'
-                     sh 'docker push saikrishnaoduru7/yogi:""\$GIT_COMMIT""'
+                     sh 'docker build -t odurusai/yogi:""\$GIT_COMMIT"" .'
+                     sh 'docker push odurusai/yogi:""\$GIT_COMMIT""'
                  }
             }
       }
