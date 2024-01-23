@@ -8,7 +8,7 @@ pipeline {
               archive 'target/*.jar' // so
             }
         }
-      stage('Unit Test') {
+      stage('Unit Test - Jacoco') {
             steps {
               sh "mvn test"
             }
@@ -26,6 +26,7 @@ pipeline {
                      sh 'docker push saikrishnaoduru7/yogi:""\$GIT_COMMIT""'
                  }
             }
+      }
         }
     }
 }
