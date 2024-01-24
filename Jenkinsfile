@@ -33,7 +33,7 @@ pipeline {
                  withKubeConfig([credentialsId: 'kubeconfig']) {
                      sh "sudo chmod 777 /home/yogi/k8s_deployment_service.yaml"
                      sh "sudo sed -i 's#replace#odurusai/yogi:${GIT_COMMIT}#g' /home/yogi/k8s_deployment_service.yaml"
-                     sh "kubectl apply -f /home/yogi/k8s_deployment_servcie.yaml"
+                     sh "kubectl apply -f /home/yogi/k8s_deployment_service.yaml"
                  }
             }
       }
