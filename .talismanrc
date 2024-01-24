@@ -5,3 +5,15 @@ fileignoreconfig:
   checksum: 3da25e43ffb8798f7725d501c751b7ff16a86d9f73f2a42a7dd01271b1f471e1
 - filename: sec_files/file2
   checksum: 3a201ce9287025a5f3e908af5f844e4e1353dc534a1a0eda83b1ca8d82240918
+- filename: .bash_history
+  checksum: e0837079887e762faf40b9ed4e6429701f7d51baae2a83c61f8c8c2841eac8ba
+- filename: sec_files/password1.txt
+  checksum: 6ba08fdfa540c0b69b19a4839a06b856f1d5da11bd75a6d5661a20a9bed68d41
+- filename: .kube/cache/http/1846b9f86af53a452db84006d0c6b205
+  checksum: 30efd82173ab8f2a26a8e28c6144f398c3f18a12752ffae8b9ee8e7959a34a52
+- filename: .kube/config
+  checksum: 5353cc6cd3c1bc6c27d90351c498aaee968104f4567b812900935dccc565626f
+- filename: .kube/cache/http/61ba2d6289c12a939dc6608a36cfd440
+  checksum: 33154dfe0c144677e7d0b8b75711f34bf0a149e3a87707b8885afd24ccb68a28
+- filename: .kube/cache/discovery/10.0.0.4_6443/v1/serverresources.json
+  checksum: b7fe1cc1ef08391caea58c531aebfdff5cb851acca43304eb7cd917445b5b0fa
