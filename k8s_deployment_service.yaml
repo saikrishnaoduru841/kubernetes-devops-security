@@ -16,7 +16,7 @@ spec:
         app: devsecops
     spec:
       containers:
-      - image: replace
+      - image: odurusai/yogi:${GIT_COMMIT}
         name: devsecops-container
 ---
 apiVersion: v1
