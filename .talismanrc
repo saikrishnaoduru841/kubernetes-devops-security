@@ -3,3 +3,5 @@ fileignoreconfig:
   checksum: 989c4699a9b92d9c6b1f80321c3a830a405d892747d1fc73b057d2943922ce59
 - filename: sec_files/password.txt
   checksum: 3da25e43ffb8798f7725d501c751b7ff16a86d9f73f2a42a7dd01271b1f471e1
+- filename: sec_files/file2
+  checksum: 3a201ce9287025a5f3e908af5f844e4e1353dc534a1a0eda83b1ca8d82240918

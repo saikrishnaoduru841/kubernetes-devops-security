@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1706082828,,"wq!"
+|2,0,1706082926,,"wq!"
 :q!
 |2,0,1706079475,,"q!"
 
@@ -27,32 +27,54 @@
 # Registers:
 
 # File marks:
-'0  5  75  ~/.talismanrc
-|4,48,5,75,1706082828,"~/.talismanrc"
-'1  35  14  ~/k8s_deployment_service.yaml
-|4,49,35,14,1706079475,"~/k8s_deployment_service.yaml"
-'2  35  15  ~/k8s_deployment_service.yaml
-|4,50,35,15,1706079420,"~/k8s_deployment_service.yaml"
-'3  35  15  ~/k8s_deployment_service.yaml
-|4,51,35,15,1706077265,"~/k8s_deployment_service.yaml"
+'0  7  75  ~/.talismanrc
+|4,48,7,75,1706082926,"~/.talismanrc"
+'1  5  75  ~/.talismanrc
+|4,49,5,75,1706082828,"~/.talismanrc"
+'2  5  75  ~/.talismanrc
+|4,50,5,75,1706082828,"~/.talismanrc"
+'3  35  14  ~/k8s_deployment_service.yaml
+|4,51,35,14,1706079475,"~/k8s_deployment_service.yaml"
 '4  35  15  ~/k8s_deployment_service.yaml
-|4,52,35,15,1706077265,"~/k8s_deployment_service.yaml"
-'5  19  2256  ~/.kube/config
-|4,53,19,2256,1706075641,"~/.kube/config"
+|4,52,35,15,1706079420,"~/k8s_deployment_service.yaml"
+'5  35  15  ~/k8s_deployment_service.yaml
+|4,53,35,15,1706077265,"~/k8s_deployment_service.yaml"
+'6  35  15  ~/k8s_deployment_service.yaml
+|4,54,35,15,1706077265,"~/k8s_deployment_service.yaml"
+'7  19  2256  ~/.kube/config
+|4,55,19,2256,1706075641,"~/.kube/config"
 
 # Jumplist (newest first):
+-'  7  75  ~/.talismanrc
+|4,39,7,75,1706082926,"~/.talismanrc"
+-'  5  75  ~/.talismanrc
+|4,39,5,75,1706082915,"~/.talismanrc"
 -'  5  75  ~/.talismanrc
 |4,39,5,75,1706082828,"~/.talismanrc"
+-'  1  0  ~/.talismanrc
+|4,39,1,0,1706082822,"~/.talismanrc"
 -'  1  0  ~/.talismanrc
 |4,39,1,0,1706082822,"~/.talismanrc"
 -'  35  14  ~/k8s_deployment_service.yaml
 |4,39,35,14,1706079475,"~/k8s_deployment_service.yaml"
 -'  35  14  ~/k8s_deployment_service.yaml
 |4,39,35,14,1706079475,"~/k8s_deployment_service.yaml"
+-'  35  14  ~/k8s_deployment_service.yaml
+|4,39,35,14,1706079475,"~/k8s_deployment_service.yaml"
+-'  35  14  ~/k8s_deployment_service.yaml
+|4,39,35,14,1706079475,"~/k8s_deployment_service.yaml"
 -'  35  15  ~/k8s_deployment_service.yaml
 |4,39,35,15,1706079420,"~/k8s_deployment_service.yaml"
 -'  35  15  ~/k8s_deployment_service.yaml
 |4,39,35,15,1706079420,"~/k8s_deployment_service.yaml"
+-'  35  15  ~/k8s_deployment_service.yaml
+|4,39,35,15,1706079420,"~/k8s_deployment_service.yaml"
+-'  35  15  ~/k8s_deployment_service.yaml
+|4,39,35,15,1706079420,"~/k8s_deployment_service.yaml"
+-'  35  15  ~/k8s_deployment_service.yaml
+|4,39,35,15,1706077265,"~/k8s_deployment_service.yaml"
+-'  35  15  ~/k8s_deployment_service.yaml
+|4,39,35,15,1706077265,"~/k8s_deployment_service.yaml"
 -'  35  15  ~/k8s_deployment_service.yaml
 |4,39,35,15,1706077265,"~/k8s_deployment_service.yaml"
 -'  35  15  ~/k8s_deployment_service.yaml
@@ -69,6 +91,18 @@
 |4,39,1,0,1706077256,"~/k8s_deployment_service.yaml"
 -'  1  0  ~/k8s_deployment_service.yaml
 |4,39,1,0,1706077256,"~/k8s_deployment_service.yaml"
+-'  1  0  ~/k8s_deployment_service.yaml
+|4,39,1,0,1706077256,"~/k8s_deployment_service.yaml"
+-'  1  0  ~/k8s_deployment_service.yaml
+|4,39,1,0,1706077256,"~/k8s_deployment_service.yaml"
+-'  1  0  ~/k8s_deployment_service.yaml
+|4,39,1,0,1706077256,"~/k8s_deployment_service.yaml"
+-'  1  0  ~/k8s_deployment_service.yaml
+|4,39,1,0,1706077256,"~/k8s_deployment_service.yaml"
+-'  1  0  ~/k8s_deployment_service.yaml
+|4,39,1,0,1706077256,"~/k8s_deployment_service.yaml"
+-'  1  0  ~/k8s_deployment_service.yaml
+|4,39,1,0,1706077256,"~/k8s_deployment_service.yaml"
 -'  19  2256  ~/.kube/config
 |4,39,19,2256,1706075641,"~/.kube/config"
 -'  19  2256  ~/.kube/config
@@ -101,6 +135,70 @@
 |4,39,19,2256,1706075641,"~/.kube/config"
 -'  19  2256  ~/.kube/config
 |4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  19  2256  ~/.kube/config
+|4,39,19,2256,1706075641,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
+-'  1  0  ~/.kube/config
+|4,39,1,0,1706075630,"~/.kube/config"
 -'  1  0  ~/.kube/config
 |4,39,1,0,1706075630,"~/.kube/config"
 -'  1  0  ~/.kube/config
@@ -137,11 +235,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/.talismanrc
-	*	1706082826	0
-	"	5	75
-	^	5	76
-	.	5	75
-	+	5	75
+	*	1706082925	0
+	"	7	75
+	^	7	76
+	.	7	75
+	+	5	76
+	+	7	75
 
 > ~/k8s_deployment_service.yaml
 	*	1706079473	0
