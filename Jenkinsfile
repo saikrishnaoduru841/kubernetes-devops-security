@@ -31,8 +31,6 @@ pipeline {
       stage('Kubernetes Deployment - Dev') {
             steps {
                  withKubeConfig([credentialsId: 'kubeconfig']) {
-                     // sh "kubectl create deploy node-app --image siddharth67/node-service:v1"
-                     // sh "kubectl expose deploy node-app --name node-service --port 5000"
                      sh "sed -i 's#replace#odurusai/yogi:${GIT_COMMIT}#g' k8s_deployment_service.yaml"
                      sh "kubectl apply -f k8s_deployment_servcie.yaml"
                  }
